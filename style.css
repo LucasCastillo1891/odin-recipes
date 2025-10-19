@@ -1,0 +1,14 @@
+.titulo {
+    background-color: #95bd95;
+    text-align: center;
+    padding: 8px;
+}
+
+.lista {
+    background-color: #551d21;
+    font-size: 18px;
+}
+
+.span {
+    color: white;
+}
