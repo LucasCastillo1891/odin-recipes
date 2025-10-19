@@ -5,10 +5,42 @@
 }
 
 .lista {
-    background-color: #551d21;
     font-size: 18px;
 }
 
 .span {
     color: white;
+}
+
+
+.div1,
+.div2,
+.div3 {
+    background-color: #ad4e54;
+}
+
+.div1 {
+    padding: 8px;
+    border: 4px;
+    text-align: center;
+}
+
+.div2 {
+    border: 12px solid;
+    margin: 12px;
+    padding: 23px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.div3 {
+    padding: 8px;
+    background-color: #ce7d83;
+    border: solid green;
+    margin: 20px;
+    align-items: end;
+    width: 200px;
+    margin-left: auto;
 }
